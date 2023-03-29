@@ -1,6 +1,3 @@
-[![Build Status](https://travis-ci.org/kodi-game/game.libretro.vice_xcbm5x0.svg?branch=master)](https://travis-ci.org/kodi-game/game.libretro.vice_xcbm5x0)
-[![Build Status](https://ci.appveyor.com/api/projects/status/github/kodi-game/game.libretro.vice_xcbm5x0?svg=true)](https://ci.appveyor.com/project/kodi-game/game-libretro-vice-xcbm5x0)
-
 # Commodore - CBM-II 5x0 (VICE xcbm5x0)
 
 ### Description
