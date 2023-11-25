@@ -453,6 +453,10 @@ msgctxt "#30106"
 msgid "RetroPad > Face Button Options"
 msgstr ""
 
+msgctxt "#30107"
+msgid "System > Printer"
+msgstr ""
+
 #~ msgctxt "#30073"
 #~ msgid "Hotkey > Datasette REWIND"
 #~ msgstr "Tecla d'accés ràpid > REBOBINAT del conjunt de dades"
