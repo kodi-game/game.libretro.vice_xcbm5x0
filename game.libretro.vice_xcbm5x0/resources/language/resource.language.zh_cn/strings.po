@@ -241,10 +241,6 @@ msgctxt "#30053"
 msgid "Input > Analog Stick Mouse Deadzone"
 msgstr ""
 
-msgctxt "#30054"
-msgid "Input > Analog Stick Mouse Speed"
-msgstr ""
-
 msgctxt "#30055"
 msgid "Input > D-Pad Mouse Speed"
 msgstr ""
@@ -455,6 +451,22 @@ msgstr ""
 
 msgctxt "#30107"
 msgid "System > Printer"
+msgstr ""
+
+msgctxt "#30108"
+msgid "Media > Floppy MultiDrive"
+msgstr ""
+
+msgctxt "#30109"
+msgid "Video > Automatic Crop Delay"
+msgstr ""
+
+msgctxt "#30110"
+msgid "Input > Left Analog Stick Mouse Speed"
+msgstr ""
+
+msgctxt "#30111"
+msgid "Input > Right Analog Stick Mouse Speed"
 msgstr ""
 
 #~ msgctxt "#30036"
