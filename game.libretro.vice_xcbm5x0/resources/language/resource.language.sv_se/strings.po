@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: game.libretro.vice\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: 2017-12-05 21:00i\n"
-"PO-Revision-Date: 2025-04-12 12:26+0000\n"
+"PO-Revision-Date: 2025-04-17 04:27+0000\n"
 "Last-Translator: Daniel Nylander <daniel@danielnylander.se>\n"
 "Language-Team: Swedish <https://kodi.weblate.cloud/projects/kodi-add-ons-game/game-libretro-vice_xcbm5x0/sv_se/>\n"
 "Language: sv_se\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.10.4\n"
+"X-Generator: Weblate 5.11\n"
 
 msgctxt "Addon Summary"
 msgid "Commodore - CBM-II 5x0 (VICE xcbm5x0)"
@@ -31,48 +31,40 @@ msgstr "System > Modell"
 
 msgctxt "#30002"
 msgid "System > Read 'vicerc'"
-msgstr "System > Läs 'vicerc'"
+msgstr "System > Läs \"vicerc"
 
 msgctxt "#30003"
 msgid "System > Reset Type"
 msgstr "System > Omstartstyp"
 
-#, fuzzy
 msgctxt "#30004"
 msgid "Media > Automatic Load Warp"
 msgstr "Media > Automatisk Load Warp"
 
-#, fuzzy
 msgctxt "#30005"
 msgid "Media > Warp Boost"
 msgstr "Media > Warp Boost"
 
-#, fuzzy
 msgctxt "#30006"
 msgid "Media > Autostart"
 msgstr "Media > Autostart"
 
-#, fuzzy
 msgctxt "#30007"
 msgid "Media > True Drive Emulation"
 msgstr "Media > True Drive-emulering"
 
-#, fuzzy
 msgctxt "#30008"
 msgid "Media > Virtual Device Traps"
 msgstr "Media > Traps för virtuella enheter"
 
-#, fuzzy
 msgctxt "#30009"
 msgid "Media > Floppy Write Protection"
 msgstr "Media > Skrivskydd för disketter"
 
-#, fuzzy
 msgctxt "#30010"
 msgid "Media > Global Work Disk"
 msgstr "Media > Global arbetsdisk"
 
-#, fuzzy
 msgctxt "#30011"
 msgid "Media > Cartridge"
 msgstr "Media > Kassett"
