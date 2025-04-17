@@ -81,16 +81,8 @@ msgctxt "#30014"
 msgid "Video > Crop"
 msgstr ""
 
-msgctxt "#30015"
-msgid "Video > Zoom Mode"
-msgstr ""
-
 msgctxt "#30016"
 msgid "Video > Crop Mode"
-msgstr ""
-
-msgctxt "#30017"
-msgid "Video > Zoom Mode Crop"
 msgstr ""
 
 msgctxt "#30018"
@@ -295,10 +287,6 @@ msgstr ""
 
 msgctxt "#30069"
 msgid "Hotkey > Toggle Crop"
-msgstr ""
-
-msgctxt "#30070"
-msgid "Hotkey > Toggle Zoom Mode"
 msgstr ""
 
 msgctxt "#30071"

@@ -81,16 +81,8 @@ msgctxt "#30014"
 msgid "Video > Crop"
 msgstr ""
 
-msgctxt "#30015"
-msgid "Video > Zoom Mode"
-msgstr "Videu > Mou del zoom"
-
 msgctxt "#30016"
 msgid "Video > Crop Mode"
-msgstr ""
-
-msgctxt "#30017"
-msgid "Video > Zoom Mode Crop"
 msgstr ""
 
 msgctxt "#30018"
@@ -297,10 +289,6 @@ msgctxt "#30069"
 msgid "Hotkey > Toggle Crop"
 msgstr ""
 
-msgctxt "#30070"
-msgid "Hotkey > Toggle Zoom Mode"
-msgstr ""
-
 msgctxt "#30071"
 msgid "Hotkey > Toggle Datasette Hotkeys"
 msgstr ""
@@ -464,6 +452,10 @@ msgstr ""
 msgctxt "#30111"
 msgid "Input > Right Analog Stick Mouse Speed"
 msgstr ""
+
+#~ msgctxt "#30015"
+#~ msgid "Video > Zoom Mode"
+#~ msgstr "Videu > Mou del zoom"
 
 #~ msgctxt "#30000"
 #~ msgid "Settings"
