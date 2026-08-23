@@ -2648,6 +2648,14 @@ msgctxt "#30648"
 msgid "Purple"
 msgstr ""
 
+msgctxt "#30649"
+msgid "6581"
+msgstr ""
+
+msgctxt "#30650"
+msgid "8580"
+msgstr ""
+
 #~ msgctxt "#30073"
 #~ msgid "Hotkey > Datasette REWIND"
 #~ msgstr "Tecla d'accés ràpid > REBOBINAT del conjunt de dades"

@@ -2694,3 +2694,11 @@ msgstr "Žlutá"
 msgctxt "#30648"
 msgid "Purple"
 msgstr "Fialová"
+
+msgctxt "#30649"
+msgid "6581"
+msgstr ""
+
+msgctxt "#30650"
+msgid "8580"
+msgstr ""
