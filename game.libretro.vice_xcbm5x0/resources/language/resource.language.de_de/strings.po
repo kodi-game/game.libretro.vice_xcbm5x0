@@ -262,10 +262,6 @@ msgctxt "#30165"
 msgid "1:1"
 msgstr ""
 
-msgctxt "#30166"
-msgid "Remove borders according to 'Crop Mode'."
-msgstr ""
-
 msgctxt "#30167"
 msgid "Small"
 msgstr ""
@@ -2643,6 +2639,10 @@ msgstr "Abdunkeln Virtuelle Tastatur"
 msgctxt "#30751"
 msgid "Light Pen/Gun Pointer Color"
 msgstr "Modus Stausleiste"
+
+#~ msgctxt "#30166"
+#~ msgid "Remove borders according to 'Crop Mode'."
+#~ msgstr ""
 
 #~ msgctxt "#30001"
 #~ msgid "System > Model"
